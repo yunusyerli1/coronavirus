@@ -11,7 +11,7 @@
     <img alt="Twitter: cmk_y" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmk_y" />
   </a>
   <a href="https://github.com/yunusyerli1/coronavirus" target="_blank">
-    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1590444382/Project/shoppingCart_cvxtaj.jpg" />
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1592219317/Project/coronavirus_ivoyrs.jpg" />
   </a>
 </p>
 
